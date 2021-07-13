@@ -2,40 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
+Adept at enhancing team and project success with top-notch code and knowledgeable support. Talented game programmer and practiced problem-solver with expertise in data analytics and project management. Expirenced working with AI system as well as other areas of programming. Knowledgable in the following programming **languages**: C++ & C#
 
-[Link to another page](./another-page.html).
+# Projects
 
-There should be whitespace between paragraphs.
+### All Patched Up
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![AllPatchedUpLogo](https://img.itch.zone/aW1nLzYxODc0MTQucG5n/original/FaqL9q.png)
+All Patched Up is a side-scrolling adventure game about making friends that help our protagonist, Tack, traverse the world, and leave their dismal home behind in search of a brighter life.
 
-# Header 1
+https://teamfire2021.itch.io/allpatchedup
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
