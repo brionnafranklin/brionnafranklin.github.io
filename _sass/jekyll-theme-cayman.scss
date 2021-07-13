@@ -32,7 +32,7 @@ body {
   font-size: 26px;
   line-height: 1.5;
   color: $body-text-color;
-  background-color: #330000;
+  background-color: #000000;
 }
 
 #skip-to-content {
@@ -59,6 +59,12 @@ a {
 
   &:hover {
     text-decoration: underline;
+  }
+ a:active {
+  color: #A50062;
+  } 
+  a:visited {
+  color: #D62900;
   }
 }
 
