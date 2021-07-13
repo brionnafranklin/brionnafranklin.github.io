@@ -1,5 +1,8 @@
 title: Brionna Franklin
 description: AI Programmer
 show_downloads: true
+github:
+  zip_url: https://github.com/brionnafranklin/brionnafranklin.github.io/raw/master/Resume.pdf
+  tar_url: https://github.com/brionnafranklin
 google_analytics:
 theme: jekyll-theme-cayman
