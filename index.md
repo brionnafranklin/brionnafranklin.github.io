@@ -19,3 +19,17 @@ All Patched Up is a side-scrolling adventure game about making friends that help
 Tower Defence is a top-down arcade style shooter game where the player must defend the tower from incoming waves of enemies. This game was created in Unity with a team of 4 artists and 2 programmers. My primary roles UI, enemy AI, and several other miscellaneous task. 
 
 [Tower Defence Itch.io Link](https://gutstowerdefence.itch.io/tower-defence)
+
+## Ball Physics
+
+![Ball Physics Screenshot](https://github.com/brionnafranklin/brionnafranklin.github.io/raw/master/BallPhysicsScreenCap.png)
+A demonstration of the physics of balls colliding within a box. This program was created using C++ in Visual Studios.
+
+[BallPhysicsGit](https://github.com/brionnafranklin/BallPhysics)
+
+## Tank Game
+
+![TankGameScreenCap](https://github.com/brionnafranklin/brionnafranklin.github.io/raw/master/TankGameScreenCap.png)
+Tank Gameis a simple local multiplayer tank shooter game played with keyboard. This game was written in C# using Visual Studios.
+
+[TankGameGit](https://github.com/brionnafranklin/TankGame)
