@@ -12,7 +12,7 @@ Adept at enhancing team and project success with top-notch code and knowledgeabl
 ![AllPatchedUpLogo](https://img.itch.zone/aW1nLzYxODc0MTQucG5n/original/FaqL9q.png)
 All Patched Up is a side-scrolling adventure game about making friends that help our protagonist, Tack, traverse the world, and leave their dismal home behind in search of a brighter life.
 
-https://teamfire2021.itch.io/allpatchedup
+[AllPatchedUpItch](https://teamfire2021.itch.io/allpatchedup)
 
 
 #### Header 4
