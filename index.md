@@ -8,13 +8,13 @@ Adept at enhancing team and project success with top-notch code and knowledgeabl
 
 ## All Patched Up
 
-![AllPatchedUpLogo](https://img.itch.zone/aW1nLzYxODc0MTQucG5n/original/FaqL9q.png)
+![AllPatchedUpLogo](https://github.com/brionnafranklin/brionnafranklin.github.io/blob/master/AllPatchedUpLogo.png)
 All Patched Up is a side-scrolling adventure game about making friends that help our protagonist, Tack, traverse the world, and leave their dismal home behind in search of a brighter life.
 
 [All Patched Up Itch.io Link](https://teamfire2021.itch.io/allpatchedup)
 
 ## Tower Defence
 
-![Tower Defence Screenshot]()
+![Tower Defence Screenshot](https://github.com/brionnafranklin/brionnafranklin.github.io/blob/master/TowerDefenceScreencap.png)
 
 [Tower Defence Itch.io Link](https://gutstowerdefence.itch.io/tower-defence)
