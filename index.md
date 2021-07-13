@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## About Me
-Adept at enhancing team and project success with top-notch code and knowledgeable support. Talented game programmer and practiced problem-solver with expertise in data analytics and project management. Expirenced working with AI system as well as other areas of programming. Knowledgable in the following programming **languages**: C++ & C#
+Adept at enhancing team and project success with top-notch code and knowledgeable support. Talented game programmer and practiced problem-solver with expertise in data analytics and project management. Expirenced working with AI system as well as other areas of programming. Knowledgable in the following programming languages: **C++ & C#**
 
 # Projects
 
